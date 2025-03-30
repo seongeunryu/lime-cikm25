@@ -1,2 +1,2 @@
-# lime-cikm2025
-LIME: Lifetime-aware Interest Matching for News Recommendation
+# [CIKM'25] LIME: Lifetime-aware Interest Matching for News Recommendation
+This repository provides an implementation of *LIME* as described in the paper: [LIME: Lifetime-aware Interest Matching for News Recommendation](https://arxiv.org/abs/2310.09401) by Seongeun Ryu, Yunyong Ko, and Sang-Wook Kim, In Proceedings of the ACM International Conference on Information and Knowledge Management (CIKM) 2025
