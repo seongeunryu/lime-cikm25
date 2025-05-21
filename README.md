@@ -1,5 +1,6 @@
-# [CIKM'25] LIME: Lifetime-aware Interest Matching for News Recommendation
-This repository provides an implementation of *LIME* as described in the paper: [LIME: Lifetime-aware Interest Matching for News Recommendation](https://arxiv.org/abs/2310.09401) by Seongeun Ryu, Yunyong Ko, and Sang-Wook Kim, In Proceedings of the ACM International Conference on Information and Knowledge Management (CIKM) 2025
+# [CIKM'25] Is This News Still Interesting to You?: Lifetime-aware Interest Matching for News Recommendation
+This repository provides an implementation of *LIME* as described in the paper: [Is This News Still Interesting to You?: Lifetime-aware Interest Matching for News Recommendation]
+<!--(https://arxiv.org/abs/2310.09401) by Seongeun Ryu, Yunyong Ko, and Sang-Wook Kim, In Proceedings of the ACM International Conference on Information and Knowledge Management (CIKM) 2025 -->
 
 ## The overview of LIME
 ![The overview of LIME](./assets/LIME_overview.png)
@@ -27,15 +28,15 @@ sklearn
 ```
 ## How to run
 ```
-python main.py --news_encoder=LIME --content_encoder=MHSA --user_encoder=MHSA
+python main.py --news_encoder=LIME --content_encoder=CROWN --user_encoder=CROWN
 ```
 
 ## Citation
 Please cite our paper if you have used the code in your work. You can use the following BibTex citation:
 ```
-@inproceedings{ryu2025lime,
-  title={LIME: Lifetime-aware Interest Matching for News Recommendation},
-  author={Ryu, Seongeun and Ko, Yunyong and Kim, Sang-Wook},
+@inproceedings{xxx2025lime,
+  title={Is This News Still Interesting to You?: Lifetime-aware Interest Matching for News Recommendation},
+  author={anonymous},
   booktitle={Proceedings of the ACM International Conference on Information and Knowledge Management (CIKM) 2025},
   pages={xxxx--xxxx},
   year={2025}
