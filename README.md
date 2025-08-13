@@ -34,9 +34,9 @@ python main.py --news_encoder=LIME --content_encoder=CROWN --user_encoder=CROWN
 ## Citation
 Please cite our paper if you have used the code in your work. You can use the following BibTex citation:
 ```
-@inproceedings{xxx2025lime,
+@inproceedings{ryu2025lime,
   title={Is This News Still Interesting to You?: Lifetime-aware Interest Matching for News Recommendation},
-  author={anonymous},
+  author={Ryu, Seongeun and Ko, Yunyong and Kim, Sang-Wook},
   booktitle={Proceedings of the ACM International Conference on Information and Knowledge Management (CIKM) 2025},
   pages={xxxx--xxxx},
   year={2025}
