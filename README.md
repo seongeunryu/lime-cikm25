@@ -26,6 +26,25 @@ numpy
 argparse
 sklearn
 ```
+
+## Hyperparameters
+The following table lists the hyperparameters used in our experiments:
+| Hyperparameter | Value |
+| --- | --- |
+| Optimizer | Adam |
+| Learning rate *η* | 1e-4 |
+| Dropout *d* | 0.25 |
+| Batch size *b* | 32 |
+| Early stopping epochs | 5 |
+| # of buckets *B* | 10 |
+| Scaling factor *α* | 0.3 |
+| Penalty factor *β* | 0.3 |
+| # of negative examples *M* | 4 |
+| Max title length | 32 |
+| Max body length | 128 |
+| Max history length | 50 |
+| Word embedding | 300 |
+
 ## How to run
 ```
 python main.py --news_encoder=LIME --content_encoder=CROWN --user_encoder=CROWN
