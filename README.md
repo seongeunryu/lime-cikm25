@@ -1,6 +1,5 @@
 # [CIKM'25] Is This News Still Interesting to You?: Lifetime-aware Interest Matching for News Recommendation
-This repository provides an implementation of *LIME* as described in the paper: [Is This News Still Interesting to You?: Lifetime-aware Interest Matching for News Recommendation]
-<!--(https://arxiv.org/abs/2310.09401) by Seongeun Ryu, Yunyong Ko, and Sang-Wook Kim, In Proceedings of the ACM International Conference on Information and Knowledge Management (CIKM) 2025 -->
+This repository provides an implementation of *LIME* as described in the paper: [Is This News Still Interesting to You?: Lifetime-aware Interest Matching for News Recommendation](https://arxiv.org/abs/2508.13064) by Seongeun Ryu, Yunyong Ko, and Sang-Wook Kim, In Proceedings of the ACM International Conference on Information and Knowledge Management (CIKM) 2025
 
 ## The overview of LIME
 ![The overview of LIME](./assets/LIME_overview.PNG)
